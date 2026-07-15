@@ -1,20 +1,85 @@
-# Password Generator
+# 🔐 Gerador de Senhas
 
-A simple Python script that asks the user for a password length and generates a random password including letters, numbers, and symbols.
+Um aplicativo simples desenvolvido em **Python** que gera senhas aleatórias e seguras com base no tamanho informado pelo usuário. As senhas são compostas por letras maiúsculas, letras minúsculas, números e caracteres especiais, proporcionando maior segurança para o uso em diferentes aplicações.
 
-## Usage
+---
+
+## 🚀 Funcionalidades
+
+* Escolha do tamanho da senha pelo usuário.
+* Geração de senhas totalmente aleatórias.
+* Inclusão de:
+
+  * Letras maiúsculas (A–Z);
+  * Letras minúsculas (a–z);
+  * Números (0–9);
+  * Caracteres especiais (`!@#$%^&*`, entre outros).
+* Interface simples executada pelo terminal.
+* Projeto ideal para praticar lógica de programação em Python.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* Python 3
+* Biblioteca `random`
+* Biblioteca `string`
+
+---
+
+## ▶️ Como Executar
+
+### 1. Clone este repositório
+
+```bash
+git clone https://github.com/lomboniAraujo/geradorSenha.git
+```
+
+### 2. Acesse a pasta do projeto
+
+```bash
+cd geradorSenha
+```
+
+### 3. Execute o programa
 
 ```bash
 python password_generator.py
 ```
 
-Enter the desired password length when prompted.
+### 4. Informe o tamanho desejado da senha
 
-## Requirements
+O programa solicitará a quantidade de caracteres e, em seguida, gerará uma senha aleatória e segura.
 
-- Python 3.x
+---
 
-## Notes
+## 📋 Requisitos
 
-- Minimum password length is 4.
-- The generated password includes uppercase letters, lowercase letters, digits, and punctuation symbols.
+* Python 3.x instalado na máquina.
+
+---
+
+## 📌 Observações
+
+* O tamanho mínimo recomendado para a senha é de **4 caracteres**.
+* As senhas são geradas de forma totalmente aleatória.
+* O projeto utiliza apenas bibliotecas nativas do Python, sem necessidade de instalar dependências externas.
+* Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais da linguagem Python, como:
+
+  * Manipulação de strings;
+  * Geração de números aleatórios;
+  * Entrada e saída de dados;
+  * Estruturas de repetição e condicionais.
+
+---
+
+## 🎯 Objetivo do Projeto
+
+Este projeto faz parte do meu portfólio de estudos em desenvolvimento de software e tem como objetivo demonstrar conhecimentos básicos em Python, lógica de programação e boas práticas na construção de aplicações simples.
+
+---
+
+## 📄 Licença
+
+Este projeto é de código aberto e está disponível para estudos, modificações e contribuições.
+
