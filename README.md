@@ -1,6 +1,6 @@
 # Password Generator
 
-A simple Python script that asks the user for a password length and generates a random password including letters, numbers, and symbols.
+A simple Python script that asks the user how many passwords to generate and the desired length for each one. The program generates random passwords using letters, numbers, and special characters, then displays them in a numbered list.
 
 ## Usage
 
@@ -8,7 +8,10 @@ A simple Python script that asks the user for a password length and generates a 
 python password_generator.py
 ```
 
-Enter the desired password length when prompted.
+Follow the prompts to specify:
+
+- how many passwords you want to generate
+- the length of each password
 
 ## Requirements
 
@@ -17,4 +20,5 @@ Enter the desired password length when prompted.
 ## Notes
 
 - Minimum password length is 4.
-- The generated password includes uppercase letters, lowercase letters, digits, and punctuation symbols.
+- The generated passwords include uppercase letters, lowercase letters, digits, and punctuation symbols.
+- Each password is displayed with its index for easy reference.
