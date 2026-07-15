@@ -1,10 +1,10 @@
-# 🔐 Gerador de Senhas
+# Gerador de Senhas
 
 Um aplicativo simples desenvolvido em **Python** que gera senhas aleatórias e seguras com base no tamanho informado pelo usuário. As senhas são compostas por letras maiúsculas, letras minúsculas, números e caracteres especiais, proporcionando maior segurança para o uso em diferentes aplicações.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 * Escolha do tamanho da senha pelo usuário.
 * Geração de senhas totalmente aleatórias.
@@ -19,7 +19,7 @@ Um aplicativo simples desenvolvido em **Python** que gera senhas aleatórias e s
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * Python 3
 * Biblioteca `random`
@@ -27,7 +27,7 @@ Um aplicativo simples desenvolvido em **Python** que gera senhas aleatórias e s
 
 ---
 
-## ▶️ Como Executar
+## Como Executar
 
 ### 1. Clone este repositório
 
@@ -59,7 +59,7 @@ O programa solicitará a quantidade de caracteres e, em seguida, gerará uma sen
 
 ---
 
-## 📌 Observações
+## Observações
 
 * O tamanho mínimo recomendado para a senha é de **4 caracteres**.
 * As senhas são geradas de forma totalmente aleatória.
@@ -73,13 +73,13 @@ O programa solicitará a quantidade de caracteres e, em seguida, gerará uma sen
 
 ---
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 Este projeto faz parte do meu portfólio de estudos em desenvolvimento de software e tem como objetivo demonstrar conhecimentos básicos em Python, lógica de programação e boas práticas na construção de aplicações simples.
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este projeto é de código aberto e está disponível para estudos, modificações e contribuições.
 
