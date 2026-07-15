@@ -1,4 +1,8 @@
-import random
+git init
+git add password_generator.py README.md
+git commit -m "Add password generator"
+git remote add origin <your-github-repo-url>
+git push -u origin mainimport random
 import string
 
 
